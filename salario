@@ -1,5 +1,5 @@
 #include "iostream"
-void mifuncion(float*,float*);//float utilizaremos solo decimales 
+void mifuncion(float*,float*);//es la variable que utilizaremos para el salario 
 using namespace std;
 
 
